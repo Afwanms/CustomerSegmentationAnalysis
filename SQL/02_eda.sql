@@ -1,3 +1,12 @@
+-- Total rows
+SELECT COUNT(*) AS total_transactions
+FROM cust_segment;
+
+-- Data range
+SELECT 
+    MIN(invoice_date) AS start_date, 
+    MAX(invoice_date) AS end_date
+
 -- Total customers
 SELECT COUNT(DISTINCT customer_id) AS total_customers
 FROM cust_segment;
@@ -19,11 +28,3 @@ SELECT
     round(SUM(revenue)) AS total_revenue
 FROM cust_segment
 GROUP BY month;
-
--- Top Customers
-SELECT 
-    customer_id, 
-    round(SUM(revenue)) AS total_revenue
-FROM cust_segment
-GROUP BY customer_id
-ORDER BY total_revenue DESC;
