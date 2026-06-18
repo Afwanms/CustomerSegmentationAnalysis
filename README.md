@@ -33,7 +33,7 @@ The analysis helps businesses understand customer value, improve retention strat
 - Sourec: E-Commerce Data (Kaggle)
 
 ## Tools
-![Tools](Image\Tools.png)
+![Tools](Image\tools.png)
 ## Dashboard Preview
 
 ### Customer Overview
