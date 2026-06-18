@@ -68,7 +68,7 @@ The analysis helps businesses understand customer value, improve retention strat
 CustomerSegmentationAnalysis/
 │
 ├── Dashboard/
-│   └── customer_segmentation.pbix
+│   └── customer_segment.pbix
 │ 
 ├── Data/
 │   ├── raw/
