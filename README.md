@@ -51,7 +51,6 @@ The analysis helps businesses understand customer value, improve retention strat
 
 ## Workflow
 ![Workflow](Image/workflow.png)
-<img src="Image/workflow.png" width="500" alt="Customer & Product Insights Dashboard"/>
 
 ## Skills Demonstrated
 - SQL
