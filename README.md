@@ -37,10 +37,10 @@ The analysis helps businesses understand customer value, improve retention strat
 ## Dashboard Preview
 
 ### Customer Overview
-![Customer Overview](Image\customer_overview.jpg)
+![Customer Overview](Image/customer_overview.jpg)
 
 ### Customer Segments
-![Customer Segments](Image\customer_segments.jpg)
+![Customer Segments](Image/customer_segments.jpg)
 
 ## Key Insights
 - Champions represent the most valuable customer group based on purchasing behavior.
@@ -50,7 +50,7 @@ The analysis helps businesses understand customer value, improve retention strat
 - Customer segmentation provides actionable insights for targeted marketing strategies.
 
 ## Workflow
-![Workflow](Image\workflow.png)
+![Workflow](Image/workflow.png)
 
 ## Skills Demonstrated
 - SQL
